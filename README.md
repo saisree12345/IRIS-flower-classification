@@ -1,1 +1,1 @@
-# IRIS flower classification
+# IRIS flower classification using k-means clustersing
